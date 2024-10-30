@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🧙🏽‍♂️ A PHD Candidate in Fudan University
+- 🔭 I’m currently working on visual content generation and editing.
+- ⚡ Fun fact: big fan of Ariana Grande
 <!--
 **Yue-105/Yue-105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
